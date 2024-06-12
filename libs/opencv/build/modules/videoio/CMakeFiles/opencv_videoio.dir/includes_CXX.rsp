@@ -1,0 +1,1 @@
+-IC:/opencv/build -IC:/opencv/modules/videoio/include -IC:/opencv/build/modules/videoio -IC:/opencv/modules/core/include -IC:/opencv/modules/imgproc/include -IC:/opencv/modules/imgcodecs/include

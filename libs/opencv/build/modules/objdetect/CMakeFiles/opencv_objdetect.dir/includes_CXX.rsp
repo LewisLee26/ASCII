@@ -1,0 +1,1 @@
+-IC:/opencv/build -IC:/opencv/modules/objdetect/include -IC:/opencv/build/modules/objdetect -IC:/opencv/modules/core/include -IC:/opencv/modules/flann/include -IC:/opencv/modules/imgproc/include -IC:/opencv/modules/dnn/include -IC:/opencv/modules/features2d/include -IC:/opencv/modules/calib3d/include

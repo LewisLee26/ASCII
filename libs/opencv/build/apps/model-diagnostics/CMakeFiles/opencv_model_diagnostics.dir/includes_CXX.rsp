@@ -1,0 +1,1 @@
+-IC:/opencv/build -IC:/opencv/modules/core/include -IC:/opencv/modules/dnn/include -IC:/opencv/modules/imgproc/include -I"C:/opencv/apps/model-diagnostics/PRIVATE" -IC:/opencv/include/opencv

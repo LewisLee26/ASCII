@@ -1,0 +1,1 @@
+-IC:/opencv/build -IC:/opencv/modules/flann/include -IC:/opencv/build/modules/flann -IC:/opencv/modules/core/include

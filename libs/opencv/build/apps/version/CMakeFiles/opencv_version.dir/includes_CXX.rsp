@@ -1,0 +1,1 @@
+-IC:/opencv/build -IC:/opencv/modules/core/include -IC:/opencv/apps/version/PRIVATE -IC:/opencv/include/opencv

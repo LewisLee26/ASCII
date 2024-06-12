@@ -1,0 +1,24 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/x86_64-w64-mingw32-g++",
+      "-c",
+      "-std=c++11",
+      "-Ilibs/opencv/build/install/include",
+      "-Ilibs/freetype/include/freetype2",
+      "-Ilibs/harfbuzz/include/harfbuzz",
+      "-Ilibs/brotli/include/brotli",
+      "-Ilibs/graphite2/include/graphite2",
+      "-Ilibs/glib2/include/glib-2.0",
+      "-Ilibs/glib2/lib/glib-2.0/include",
+      "-Ilibs/pcre2/include",
+      "-mwindows",
+      "-o",
+      "build/main.exe",
+      "main.cpp"
+    ],
+    "directory": "/mnt/c/Users/lewis/Documents/GitHub/cam2",
+    "file": "/mnt/c/Users/lewis/Documents/GitHub/cam2/main.cpp",
+    "output": "/mnt/c/Users/lewis/Documents/GitHub/cam2/build/main.exe"
+  }
+]

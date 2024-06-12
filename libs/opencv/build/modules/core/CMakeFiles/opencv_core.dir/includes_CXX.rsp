@@ -1,0 +1,1 @@
+-IC:/opencv/build -IC:/opencv/modules/core/include -IC:/opencv/build/modules/core -IC:/opencv/3rdparty/zlib -IC:/opencv/build/3rdparty/zlib -IC:/opencv/3rdparty/include/opencl/1.2

@@ -1,0 +1,1 @@
+ ../../lib/libopencv_ts4100.a ../../lib/libopencv_photo4100.dll.a ../../lib/libopencv_highgui4100.dll.a -lpthread ../../lib/libopencv_videoio4100.dll.a ../../lib/libopencv_imgcodecs4100.dll.a ../../lib/libopencv_imgproc4100.dll.a ../../lib/libopencv_core4100.dll.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

@@ -1,0 +1,1 @@
+-IC:/opencv/build/3rdparty/zlib -IC:/opencv/3rdparty/zlib -IC:/opencv/build/3rdparty/libtiff -IC:/opencv/3rdparty/libtiff -IC:/opencv/build -I"C:/opencv/build/3rdparty/libjpeg-turbo" -I"C:/opencv/3rdparty/libjpeg-turbo/src"
